@@ -3,7 +3,7 @@
   <a href="https://myportfolio-e88a3.web.app/" target="_blank">subhajit.tech</a>
 </h2>
 <div align="center"> 
-  <img alt="Demo" src="./Images/SP1.PNG" /> 
+  <img alt="Demo" src="./Images/SP1.png" /> 
 </div>
 
 <br/>
